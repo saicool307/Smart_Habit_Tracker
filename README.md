@@ -1,4 +1,5 @@
-**Smart Habit Tracker**
+****Smart Habit Tracker****
+
 
 A complete habit tracking system built in Java that supports both GUI (Swing) and Console (CLI) modes.
 This project demonstrates strong Object-Oriented Programming, modular design, file persistence, analytics, and user interface development.
