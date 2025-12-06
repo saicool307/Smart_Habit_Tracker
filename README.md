@@ -75,17 +75,15 @@ habit, streak, totalCompletions, totalDays, completionRate
 
 ✔ **Clean & Modular Architecture**
 
-Organized package structure:
+| Component | Technology             |
+| --------- | ---------------------- |
+| GUI       | Java Swing + AWT       |
+| Console   | Java Standard I/O      |
+| Language  | Java 8+                |
+| Storage   | Java Serialization     |
+| Graphics  | Custom Swing rendering |
+| Build     | javac / manual build   |
 
-app
- ├── gui               # Swing-based UI
- ├── console           # Console (CLI) mode
- ├── user              # Data models (Habit, UserProfile, History)
- ├── HabitTrackerManager
- ├── ProgressAnalyzer
- ├── ReminderEngine
- ├── util
- └── exception         # Custom exceptions
  
 🖥️ **Technology Stack**
 
