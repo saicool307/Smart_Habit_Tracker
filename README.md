@@ -76,14 +76,23 @@ habit, streak, totalCompletions, totalDays, completionRate
 ✔ **Clean & Modular Architecture**
 
 app
+
  ├── gui               # Swing-based UI
+ 
  ├── console           # Console (CLI) mode
+ 
  ├── user              # Data models (Habit, UserProfile, History)
+ 
  ├── HabitTrackerManager
+ 
  ├── ProgressAnalyzer
+ 
  ├── ReminderEngine
+ 
  ├── util
+ 
  └── exception         # Custom exceptions
+
 
  
 🖥️ **Technology Stack**
